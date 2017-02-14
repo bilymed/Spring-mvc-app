@@ -1,2 +1,2 @@
-# Spring MVC simple-cms 
+# Spring MVC simple-app 
 http://app-microcms.rhcloud.com/
